@@ -1,0 +1,20 @@
+{
+  "build": 23,
+  "commit": "bcc83bc70617efc25f5135cdb8f65a017b19caee",
+  "builtAt": "2026-11-23T15:37:58.714Z",
+  "node": 24,
+  "files": {
+    "boot.mjs": {
+      "sha256": "02be0075715154f0af4c3060034ef15f52e01d7454d34ece3ac8ca7aba070499",
+      "size": 2506
+    },
+    "launcher.mjs": {
+      "sha256": "06b1de2e8dc51d5b4554525589d095d03ba24813cdb5d231f8ce4201bb8465cb",
+      "size": 881400
+    },
+    "bot.mjs": {
+      "sha256": "3165baae275bd63720246995a5c282ac6e2ddfacafe04465863469a991939f9f",
+      "size": 5889266
+    }
+  }
+}
